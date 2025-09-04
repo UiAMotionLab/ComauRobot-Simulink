@@ -1,6 +1,6 @@
 # Comau Robot MBS Simulink Simulator
 
-This repo includes the MATLAB-Simulink MBS Simulator model of the Comau Robot located in the Norwegian Motion Laboratory (UiA Motion Lab).
+This repo includes the MATLAB-Simulink MBS Simulator model of the Comau Robot located in the Norwegian Motion Laboratory ([UiA Motion Lab](https://www.uia.no/motionlab)).
 
 <img src="figs/ComauMotionLab.jpg" alt="drawing" height="350"/> 
 
